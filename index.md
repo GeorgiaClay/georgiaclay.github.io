@@ -5,7 +5,7 @@
 ### Teaching R and Multi-Level Modeling Resources
 
 
-[Introduction to R](https://georgiaclay.github.io/TEWA/introduction.html))
+[Introduction to R](https://georgiaclay.github.io/TEWA/introduction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Cleaning Data in R](https://georgiaclay.github.io/TEWA/cleaning-data.html)
