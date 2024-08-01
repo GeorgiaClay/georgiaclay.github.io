@@ -2,22 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Teaching R and Multi-Level Modeling Resources
 
-[Project 1 Title](/sample_page)
+
+[Introduction to R](https://georgiaclay.github.io/TEWA/introduction.html))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Cleaning Data in R](https://georgiaclay.github.io/TEWA/cleaning-data.html)
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Introduction to Multi-Level Modeling](https://georgiaclay.github.io/TEWA/intro-to-hlm.html)
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
+
 
 ### Category Name 2
 
