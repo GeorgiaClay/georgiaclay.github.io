@@ -14,7 +14,11 @@
 ---
 
 
-### Category Name 2
+### Published Articles
+
+- Rewarding cognitive effort increases the intrinsic value of mental labor
+  - Manuscript
+  - Code
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
