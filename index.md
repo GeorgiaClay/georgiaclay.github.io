@@ -6,12 +6,11 @@
 
 
 [Introduction to R](https://georgiaclay.github.io/TEWA/introduction.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Cleaning Data in R](https://georgiaclay.github.io/TEWA/cleaning-data.html)
 
 [Introduction to Multi-Level Modeling](https://georgiaclay.github.io/TEWA/intro-to-hlm.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 
@@ -25,7 +24,7 @@
 
 ---
 
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
