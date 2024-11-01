@@ -1,5 +1,10 @@
 ## Portfolio
 
+### Shiny App for Multilevel model Power Analysis
+
+An [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power analyses for Multilevel, or Hierarchical Linear Models.
+
+
 ---
 
 ### Teaching R and Multi-Level Modeling Resources
