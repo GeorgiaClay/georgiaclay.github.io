@@ -6,6 +6,10 @@ A Shiny [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power 
 
 [View code on Github](https://github.com/GeorgiaClay/mlm_power/tree/main)
 
+ <p align="center">
+<img width = 400 src="images/fig 2.png"/>
+ </p>
+
 ---
 
 ### Teaching R and Multilevel Modeling Resources
@@ -28,7 +32,7 @@ These courses were designed to give undergraduate Psychology students an introdu
   - [Code](https://osf.io/8pcex/)
 
  <p align="center">
-<img src="images/fig 1.png"/>
+<img width = 300 src="images/fig 1.png"/>
  </p>
 
 - **Clay, G.**, Dumitrescu, C., Habenicht, J., Kmiecik, I., Musetti, M., & Domachowska, I. (2022). Who Is Satisfied With Effort?. _European Journal of Psychological Assessment_.
@@ -49,6 +53,5 @@ These courses were designed to give undergraduate Psychology students an introdu
 
 
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
