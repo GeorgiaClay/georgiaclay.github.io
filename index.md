@@ -2,13 +2,14 @@
 
 ### Shiny App for Multilevel model Power Analysis
 
-An [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power analyses for Multilevel, or Hierarchical Linear Models.
+A Shiny [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power analyses for Multilevel Linear Models. The app is designed to handle nested data with two levels, with categorical fixed effects and one grouping variable (random intercept and random slope).
 
 
 ---
 
-### Teaching R and Multi-Level Modeling Resources
+### Teaching R and Multilevel Modeling Resources
 
+These courses were designed to give undergraduate Psychology students an introduction to R and Multilevel Modeling in R.
 
 [Introduction to R](https://georgiaclay.github.io/TEWA/introduction.html)
 
