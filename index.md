@@ -4,6 +4,7 @@
 
 A Shiny [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power analyses for Multilevel Linear Models. The app is designed to handle nested data with two levels, with categorical fixed effects and one grouping variable (random intercept and random slope).
 
+[View code on github](https://github.com/GeorgiaClay/mlm_power/tree/main)
 
 ---
 
