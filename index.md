@@ -7,7 +7,7 @@ A Shiny [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power 
 [View code on Github](https://github.com/GeorgiaClay/mlm_power/tree/main)
 
  <p align="center">
-<img width = 400 src="images/fig 2.png"/>
+<img width = 500 src="images/fig 2.png"/>
  </p>
 
 ---
