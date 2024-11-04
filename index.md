@@ -23,19 +23,28 @@ These courses were designed to give undergraduate Psychology students an introdu
 
 ### Published Articles
 
-- Rewarding cognitive effort increases the intrinsic value of mental labor
-  - Manuscript
-  - Code
+- **Clay, G.**, Mlynski, C., Korb, F. M., Goschke, T., & Job, V. (2022). Rewarding cognitive effort increases the intrinsic value of mental labor. _Proceedings of the National Academy of Sciences_, 119(5), e2111785119.
+  - [Manuscript](https://www.pnas.org/doi/pdf/10.1073/pnas.2111785119)
+  - [Code](https://osf.io/8pcex/)
+ 
+<img src="images/fig 1.png"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- **Clay, G.**, Dumitrescu, C., Habenicht, J., Kmiecik, I., Musetti, M., & Domachowska, I. (2022). Who Is Satisfied With Effort?. _European Journal of Psychological Assessment_.
+  - [Manuscript](https://econtent.hogrefe.com/doi/pdf/10.1027/1015-5759/a000742)
+  - [Code](https://osf.io/n7my8/)
+ 
+- Ruggeri, K., Većkalov, B., Bojanić, L., Andersen, T. L., Ashcroft-Jones, ...**Clay, G.**, ... & Folke, T. (2021). The general fault in our fault lines. _Nature Human Behaviour_, 5(10), 1369-1380.
+    -[Manuscript](https://www.nature.com/articles/s41562-021-01092-x.pdf)
 
+- Ruggeri, K., Panin, A., Vdovic, M., Većkalov, B., Abdul-Salaam, N., ...**Clay, G.**,  ... & Toscano, F. (2022). The globalizability of temporal discounting. _Nature Human Behaviour_, 6(10), 1386-1397.
+    -[Manuscript](https://www.nature.com/articles/s41562-022-01392-w)
+
+- Roth, L., Jankowski, J., & **Clay, G.** (2023). Self-Control beyond inhibition. German Translation and Quality Assessment of the Self-Control Strategy Scale (SCSS).
+    -[Manuscript](https://osf.io/preprints/psyarxiv/gpmnv)
+    
 ---
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 ---
