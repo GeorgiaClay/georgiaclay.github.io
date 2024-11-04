@@ -1,11 +1,8 @@
-title: Georgia Clay # your name (or website title) here
-logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+title: Georgia Clay, PhD
+logo: "/images/headshot.jpg?raw=true" 
+description: > 
+  Data Analyst with commercial experience in analytics and doctorate degree from University of Vienna.
+  <a href="https://www.linkedin.com/in/georgia-clay-phd-28ba96166/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
