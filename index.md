@@ -11,6 +11,13 @@ A Shiny [app](https://georgiaclay.shinyapps.io/mlm_power_app/) to conduct power 
  </p>
 
 ---
+### WTA Exploratory Analysis and Logistic Regression Classifier in Python
+
+This is an analysis of data on the WTA (Women's Tennis Association) in 2023. I look at data on professional players and tour matches over 2023, and use a Logistic Regression Classifier to predict match outcomes by a set of match characterstics. I also look questions such as age and geographical distribution of players, the progression of top players throughout the year and who is the master of the comeback.
+
+[View Report](https://nbviewer.org/github/GeorgiaClay/wta-analysis/blob/main/wta%20analysis.ipynb)
+
+---
 
 ### Teaching R and Multilevel Modeling Resources
 
