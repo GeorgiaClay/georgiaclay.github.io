@@ -17,6 +17,10 @@ This is an analysis of data on the WTA (Women's Tennis Association) in 2023. I l
 
 [View Report](https://nbviewer.org/github/GeorgiaClay/wta-analysis/blob/main/wta%20analysis.ipynb)
 
+<p align="center">
+<img width = 500 src="images/fig 3.png"/>
+ </p>
+
 ---
 
 ### Teaching R and Multilevel Modeling Resources
