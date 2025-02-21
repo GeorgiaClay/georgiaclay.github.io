@@ -1,0 +1,20 @@
+/* Reduce font size and spacing in sidebar */
+.sidebar {
+  font-size: 14px; /* Adjust size */
+  padding: 10px; /* Reduce padding */
+}
+
+.sidebar a {
+  font-size: 13px;
+}
+
+/* Make it even smaller on small screens */
+@media (max-width: 1024px) {
+  .sidebar {
+    font-size: 12px;
+    padding: 5px;
+  }
+  .sidebar img {
+    max-width: 60px;
+  }
+}
