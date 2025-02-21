@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
-   
+
+   <style>
+   header {
+    font-size: 14px;
+    padding: 10px;
+    max-height: 100vh; /* Prevents it from being too tall */
+    overflow-y: auto; /* Allows scrolling if necessary */
+  }
+ </style>
    {% if site.google_analytics %}
    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
    <script>
