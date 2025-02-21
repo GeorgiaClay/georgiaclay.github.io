@@ -7,4 +7,5 @@ description:
   <a href="https://www.linkedin.com/in/georgia-clay-phd-28ba96166/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
+style: "/style.scss"
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
